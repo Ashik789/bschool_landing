@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+
+.bgm-1{background:url(../img/bgm-1.png) center; background-size: cover;}
+.banner-img img{max-width: 300px; display: block;}
+.banner-img h1{color:#000; font-family: 'Great Vibes', cursive; font-size: 42px;}
+.get-started{background: #000; border:2px solid #000; color:#fff;}
+.get-started:hover{background:#cfa968;}
+.about-im img{border-radius:5px; -webkit-box-shadow: 0 4px 10px 0 rgba(0,0,0,.2); box-shadow: 0 4px 10px 0 rgba(0,0,0,.2);}
+footer{background:url(../img/map-layer.png) #183883 fixed; background-size: cover;}
+.companies-area h2{margin-bottom: 50px;}
+.companies-area .single-item{border:1px solid #eee; padding:5px;}
+
+
+
